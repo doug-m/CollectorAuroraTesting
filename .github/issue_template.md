@@ -5,7 +5,7 @@
 <!-- Explain how it should work -->
 
 ### Map and Credentials
-<!-- Invite Collector4ArcGIS@esri.com user to a group containing maps/layers to reproduce -->
+<!-- Invite Collector4ArcGIS user to a group containing maps/layers to reproduce -->
 * Group Name:
 * Map Name:
 
