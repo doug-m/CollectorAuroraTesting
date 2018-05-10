@@ -4,7 +4,7 @@ No code here. This repo is used to manage feedback for Collector holistic testin
 # Focus Areas
 - Offline testing - including renaming offline areas, vector/raster basemaps, etc. 
 - Sideloading basemaps
-- QR/Barcode scanning
+- QR/Barcode scanning - See https://esri.box.com/s/196aczrf60xy4fwhvz3kcf33yxk5n3hk for test samples. 
 - Maps organized by groups
 
 # Areas for consideration
