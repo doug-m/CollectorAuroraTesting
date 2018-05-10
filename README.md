@@ -11,6 +11,7 @@ No code here. This repo is used to manage feedback for Collector holistic testin
    
    **Note:** Not all barcode types presented on this list are supported. 
 - Sideloading basemaps via ITunes
+- Z Values
 
 # Other areas for consideration
 - General attachments (video/photo/audio)
