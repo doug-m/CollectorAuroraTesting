@@ -48,5 +48,5 @@ If you only need/want particular grid files, please follow these steps:
 1. Create a new folder in a different directory called pedata
 2. Create a subfolder for the type of grid files you want, for example a folder called ntv2
 3. Create another subfolder under that for the area you want, for example uk
-4. Then copy the actual grid files from that same uk folder that was installed with the coordinate systems data into that new subfolder. basically all you're doing is creating folders to mirror the same structure as the original, but with only the files you need. 
+4. Then copy the actual grid files from that same uk folder that was installed with the coordinate systems data into that new subfolder. Basically all you're doing is creating folders to mirror the same structure as the original, but with only the files you need. 
 5. Then follow the steps above through iTunes to add that folder onto the device. 
