@@ -1,5 +1,4 @@
 # Collector (Aurora) Testing - Build 2282
-No code here. This repo is used to manage feedback for Collector holistic testing events.
 
 # Testing areas for consideration
 - Offline areas - Adhoc/Preplanned
