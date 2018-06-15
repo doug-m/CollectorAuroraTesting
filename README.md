@@ -2,6 +2,7 @@
 
 # Testing areas for consideration
 - Offline areas - Adhoc/Preplanned
+- Arcade expressions - read-only popups
 - General attachments (video/photo/audio)
 - Related tables
 - Feature service editing capabilities 
