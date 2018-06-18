@@ -33,6 +33,8 @@ The following steps apply to the current version of iTunes 12.7.5
 
 Before starting the workflow, ensure you have installed the ArcGIS Coordinate System Data, for Pro or ArcMap. 
 
+You can also download the coordinate systems data from https://developers.arcgis.com/downloads/data. Just sign in with your AGOL account. 
+
 1. Connect your iOS device to a PC running iTunes
 2. In iTunes, choose the connected device > Select File Sharing
 3. Choose the Collector app.
