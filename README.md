@@ -32,3 +32,9 @@ The following steps apply to the current version of iTunes 12.8
 4. Choose 'Add File...' button
 5. Browse to the location of the TPK/VTPK
 6. Click 'Open' to add the file to the Collector Documents directory. It should now be accessible in the Basemap gallery in Collector. 
+
+# Steps for sideloading grid-based transformation files
+
+If you are interested in the process for sideloading grid-based transformation files instead of downloading from ArcGIS Online the following video will describe steps for doing so through iTunes.
+
+[Video](https://esri.box.com/s/akm158yxhl7tqthddz4866gr30ezuuyr)
