@@ -1,6 +1,11 @@
-# Collector (Aurora) Testing - Build 2284
+# Collector (Aurora) Testing - Build 2358
 
 # Testing areas for consideration
+- Auto-Sync
+- Sync in-map
+- Sync panel details for edited/deleted feaures and sync failures
+- Grid-based transformations - downloading from AGOL
+- Coordinate search
 - Offline areas - Adhoc/Preplanned
 - Arcade expressions - read-only popups
 - General attachments (video/photo/audio)
@@ -19,7 +24,7 @@
    - https://barcode.tec-it.com/
 
 # Steps for sideloading basemaps using iTunes
-The following steps apply to the current version of iTunes 12.7.5
+The following steps apply to the current version of iTunes 12.8
 
 1. Connect your iOS device to a PC running iTunes
 2. In iTunes, choose the connected device > Select File Sharing
@@ -27,29 +32,3 @@ The following steps apply to the current version of iTunes 12.7.5
 4. Choose 'Add File...' button
 5. Browse to the location of the TPK/VTPK
 6. Click 'Open' to add the file to the Collector Documents directory. It should now be accessible in the Basemap gallery in Collector. 
-
-# Steps for sideloading grid-based transformation files using iTunes
-The following steps apply to the current version of iTunes 12.7.5
-
-Before starting the workflow, ensure you have installed the ArcGIS Coordinate System Data, for Pro or ArcMap. 
-
-You can also download the coordinate systems data from https://developers.arcgis.com/downloads/data. Just sign in with your AGOL account. 
-
-1. Connect your iOS device to a PC running iTunes
-2. In iTunes, choose the connected device > Select File Sharing
-3. Choose the Collector app.
-4. Choose 'Add File...' button
-5. Browse to the pedata folder inside the coordinate systems folder
-6. From that 'Add File...' dialog, drag the pedata folder into 'Collector Documents'. Nothing happens at this point
-7. Click 'Cancel' on the 'Add File...' dialog box. You should now see the pedata folder copying onto the device. 
-
-Please see the following video - https://esri.box.com/s/0vh84fg7lduydrox00ijxlpkg7cffcrd
-
-The steps above will copy the entire pedata folder onto your device, which is approximately 1.5 gb. 
-
-If you only need/want particular grid files, please follow these steps:
-1. Create a new folder in a different directory called pedata
-2. Create a subfolder for the type of grid files you want, for example a folder called ntv2
-3. Create another subfolder under that for the area you want, for example uk
-4. Then copy the actual grid files from that same uk folder that was installed with the coordinate systems data into that new subfolder. Basically all you're doing is creating folders to mirror the same structure as the original, but with only the files you need. 
-5. Then follow the steps above through iTunes to add that folder onto the device. 
