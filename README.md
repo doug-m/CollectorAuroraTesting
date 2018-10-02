@@ -1,4 +1,4 @@
-# Collector (Aurora) Testing - Build 2358
+# Collector (Aurora) Testing - Build 2437
 
 # Testing areas for consideration
 - Auto-Sync
@@ -14,7 +14,7 @@
 - Compass mode
 - Labeling
 - Unit display settings
-- High accuracy GPS workflows - including Z values 
+- High accuracy GPS workflows - including Z values, support for RTK/RTX w/ Trimble receivers
 - Feature search
 - Security
 - Custom basemaps (vector/raster/image) - including Sideloading basemaps
