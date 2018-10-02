@@ -20,7 +20,7 @@
 - Security
 - Custom basemaps (vector/raster/image) - including Sideloading basemaps
 - App Integration
-- QR/Barcode scanning- See [this document](https://esri.box.com/s/0h9ux1hu612z6muv4fwl5mwfqklh7l2q) for test samples of various codes. If you'd like to generate your own, you can use the following websites.
+- QR/Barcode scanning- See [this document](https://esri.box.com/s/o4bpjl2525lzwff4lf75wnsknx6znesn) for test samples of various codes. If you'd like to generate your own, you can use the following websites.
    - http://www.barcode-generator.org/
    - https://barcode.tec-it.com/
 
