@@ -1,6 +1,7 @@
 # Collector (Aurora) Testing - Build 2437
 
 # Testing areas for consideration
+- Copy existing feature geometry and attributes (read-only layers, 'Update Attributes Only' layers)
 - Auto-Sync
 - Sync in-map
 - Sync panel details for edited/deleted feaures and sync failures
