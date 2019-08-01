@@ -1,7 +1,29 @@
-# Collector (Aurora) on Android - App Version 18.1.0, Build 2364
+# Collector (Aurora) on Android - Build ####
 
 # Testing areas for consideration
-- Preplanned Offline Areas - includes sync (ArcGIS Online only)
-- Phone and Tablet 
-- High Accuracy GNSS receivers - includes integrated and external Bluetooth receivers. (Does not include support for Trimble receivers)
-- High Accuracy settings - includes Location Profile, Required Accuracy, Streaming. (Does not include support for GNSS metadata fields)
+
+Android devices include both phones and tablets.
+
+GNSS
+- Integrated receivers
+- External Bluetooth receivers - including Trimble 
+- Streaming
+- Metadata fields
+- Location Profiles - including grid based transformations*
+
+Offline
+- Preplanned offline areas
+- On-demand offline areas
+- Sideloaded basemap switching - includes internal device storage and external SD cards. (`See notes below for instructions`)
+- Sync - includes using the sync panel inside the map for viewing pending edits
+
+General
+- Related tables*
+- Copying features*
+- Using `Collect Here`
+
+# Steps for sideloading basemaps (internal storage & external SD card)
+1. Connect the Android device to a PC/Mac
+2. At the root of the devices internal storage or SD card, create a folder called `ArcGIS`.
+3. Inside the `ArcGIS` folder create a folder called `basemaps`.
+4. Copy any tile packages into the `basemaps` folder. 
