@@ -9,7 +9,8 @@ GNSS
 - External Bluetooth receivers - including Trimble 
 - Streaming
 - Metadata fields
-- Location Profiles - including grid based transformations*
+- Location Profiles
+- Storage of Z values
 
 Offline
 - Preplanned offline areas
@@ -18,9 +19,9 @@ Offline
 - Sync - includes using the sync panel inside the map for viewing pending edits
 
 General
-- Related tables*
-- Copying features*
-- Using `Collect Here`
+- Related tables
+- Copying features
+- Using 'Collect Here'
 
 # Steps for sideloading basemaps (internal storage & external SD card)
 1. Connect the Android device to a PC/Mac
