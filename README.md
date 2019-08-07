@@ -1,4 +1,4 @@
-# Collector (Aurora) on Android - Build ####
+# Collector (Aurora) on Android - Version 19.1.0 Build 2576
 
 # Testing areas for consideration
 
